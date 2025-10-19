@@ -1,4 +1,4 @@
-![Logo do Projeto](img/img.png)
+![Logo do Projeto](img.png)
 
 # MARKETING DEPARTMENT – Clínica Essencial Saúde
 

@@ -1,4 +1,4 @@
-![img.png](C:\Users\Guilherme\Documents\repos\u_llm\img.png)
+![Logo do Projeto](img/img.png)
 
 # MARKETING DEPARTMENT – Clínica Essencial Saúde
 
